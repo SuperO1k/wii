@@ -1,0 +1,45 @@
+Check Mii Out Channel Soundtrack
+--Extracted, Edited, & Tagged by Yaksha--
+
+Check Mii Out Channel
+Miiコンテストチャンネル | Mii Contest Channel
+12 November, 2007
+Kazumi Totaka
+
+
+---Audio Sources---
+.bns stream [32 kHz Sample Rate]
+NintendoWare Sound Player dump (through Dolphin emulator) [32 kHz Sample Rate]
+
+---Audio Fixes---
+
+
+---Tagging Source---
+In-channel context
+
+---Composer Credits Sources---
+DNPO-17159 | Touch! Generations SOUND TRACK
+
+
+---Comments Tag Breakdown---
+Where/when the theme plays [Possible original theme's title ~ Possible original theme's game] | Official theme title [Possible theme title English translation] : Possible localized/alternate theme title
+
+---Soundtrack Goals---
+These soundtracks aim to provide a high quality experience. They include the following:
+-All themes in their highest available quality (excluding recreating the themes using their commercial sound module samples).
+-As many themes of the game as possible will be available.
+-All looping themes looped once with a fade out beginning of the second loop.
+-Silence at the end and slightly at the beginning of each theme.
+-Attempt to increase/decrease the volume for those soundtracks on the extremely quiet/loud ends.
+--Volume for themes within the same soundtrack from different sources will be close to or the same volume.
+-Set to a standard sample rate of 44.1 kHz.
+-Occasional alternate theme versions (e.g. theme version without embedded SFX)
+-Fully tagged in English and ordered in approximate order of in-game appearance or ordered as shown on an officially released soundtrack.
+--Priority of the theme names will be primarily based on official theme names (English translation of original language or English localization).
+--They will be occasionally preferred/edited/combined to choose/create a version more accurate to the theme's in-game context.
+--Engrish will be fixed.
+--In-game context & exact original titles will be added in the theme's comments tag.
+--Themes with no official titles will be named based on in-game context.
+-Composer credits, broken down by theme when possible.
+-An album art of both the original & English localized release, showcasing the game's cover art & original logo.
+--As high quality art resources are not always available, it may not always be possible to have both versions in a satisfactory quality.
